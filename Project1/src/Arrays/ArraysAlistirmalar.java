@@ -88,6 +88,11 @@ public class ArraysAlistirmalar {
 
 
 
+        int sayi = (int)Math.random();
+        double x = 12.5;
+        int deger = Integer.MAX_VALUE;
+
+
 
 
 
